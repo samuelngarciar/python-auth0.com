@@ -81,3 +81,7 @@ And using the access token responsed, for invoke the private method follow:
 Copy and access token and paste here
 ![image](https://github.com/samuelngarciar/python-auth0.com/assets/84947793/fd9ea84a-36bb-4bfb-ae70-93edcb3dae54)
 
+Now, you can test the private method such as
+![image](https://github.com/samuelngarciar/python-auth0.com/assets/84947793/5a730f43-6436-4442-ac3f-6cbe8b1ef7d9)
+
+
