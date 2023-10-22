@@ -23,7 +23,7 @@ export ENV='.config'
 ```
 
 You can change this behavior by setting the following environment variables (remember to update the values accordingly):
-
+Note. The advantage here is the this is generic, in others word that values can be uptated with the data of any auth02 provider
 ```console
 export ENV='variables'
 export DOMAIN='your.domain.auth0.com'
