@@ -5,6 +5,10 @@
 In order to run the example you need to have `python3` (any version higher than `3.6`) and `pip3` installed.
 
 ### Configuration
+First
+For development purpose must be create a free account in auth0.com and after create a Applications API like this:
+![image](https://github.com/samuelngarciar/python-auth0.com/assets/84947793/026f4b7b-d83c-42a6-8211-8ece4363af1d)
+
 
 The configuration you'll need is mostly information from Auth0, you'll need both the tentant domain and the API information.
 
@@ -69,3 +73,11 @@ Access [http://localhost:8000/docs](http://localhost:8000/docs). From there you'
 | `main` | The starter sample only has two endpoints and one of them needs protection |
 | `private` | The result of protecting the first endpoint with Auth0 |
 | `private-scoped` | Implemented a protected endpoint with checks for scopes |
+
+Finally you can to get a new access token using the follow method
+![image](https://github.com/samuelngarciar/python-auth0.com/assets/84947793/c3fee256-887f-4294-87c8-449fa7a71633)
+
+And using the access token responsed, for invoke the private method follow:
+Copy and access token and paste here
+![image](https://github.com/samuelngarciar/python-auth0.com/assets/84947793/fd9ea84a-36bb-4bfb-ae70-93edcb3dae54)
+
